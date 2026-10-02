@@ -1,0 +1,174 @@
+EMPLOYEE HANDBOOK
+TechCorp Inc. - Welcome Guide for New Employees
+Version 3.2 | January 2025
+
+=======================================================
+WELCOME TO TECHCORP!
+=======================================================
+
+We are thrilled to have you join our team. This handbook will guide you through
+everything you need to know about working at TechCorp. Please read it carefully
+and keep it as a reference throughout your time with us.
+
+=======================================================
+1. ONBOARDING PROCESS
+=======================================================
+
+Week 1 - Orientation:
+Day 1: IT setup, office tour, meet your team
+Day 2: HR orientation - benefits, payroll, policies
+Day 3: Department introduction and role overview
+Day 4-5: Start on assigned onboarding tasks
+
+Required Training (First Month):
+All new employees must complete the following within their first 30 days:
+1. Security Awareness Training (online, ~2 hours)
+2. Data Privacy & GDPR Training (online, ~1.5 hours)
+3. Code of Conduct Training (online, ~1 hour)
+4. Role-specific technical training (varies by role)
+
+Your Manager Will:
+- Assign you an onboarding buddy (a senior colleague)
+- Set up weekly 1:1 meetings for the first 3 months
+- Create a 30-60-90 day plan with you
+
+=======================================================
+2. OFFICE FACILITIES
+=======================================================
+
+Office Hours:
+Main office is open Monday-Friday, 7 AM to 9 PM.
+Access is 24/7 for employees with building access cards.
+
+Meeting Rooms:
+- Book meeting rooms via the "Room Booking" system in the company intranet
+- Rooms can be booked up to 2 weeks in advance
+- Please cancel bookings if you no longer need the room
+- Large conference rooms (10+ people) require 24-hour notice
+
+Cafeteria:
+Open Monday-Friday: Breakfast (7:30-9:30 AM), Lunch (12:00-2:00 PM)
+Subsidized meals available. Employees receive $5 daily cafeteria credit.
+
+Parking:
+Free parking is available in the company parking lot. Motorcycles park in the
+designated motorcycle zone. Electric vehicle charging stations are available
+(first 10 spots, first come first served).
+
+=======================================================
+3. IT AND SYSTEMS ACCESS
+=======================================================
+
+Your First Day Setup:
+1. Collect laptop from IT Help Desk (Floor 1, Room 110)
+2. You will receive your employee ID and temporary password via SMS
+3. Change your password on first login
+4. Set up two-factor authentication (mandatory)
+
+Key Systems You Will Use:
+- Slack: Team communication (invite sent to personal email)
+- Jira: Project management and task tracking
+- Confluence: Company wiki and documentation
+- GitHub/GitLab: Code repositories (for technical roles)
+- Workday: HR system for leave, payroll, expense claims
+- Google Workspace: Email, Calendar, Drive
+
+IT Support:
+- IT Help Desk: it-support@techcorp.com or ext. 1234
+- Self-service portal: helpdesk.techcorp.internal
+- Response time: P1 (critical) - 1 hour, P2 (high) - 4 hours, P3 (normal) - 24 hours
+
+=======================================================
+4. COMMUNICATION GUIDELINES
+=======================================================
+
+Email Best Practices:
+- Use clear subject lines that describe the purpose
+- Keep emails concise and action-oriented
+- Use "Reply All" only when all recipients need to know
+- Response expected within 24 hours on working days
+
+Slack Guidelines:
+- Use #general for company-wide announcements
+- Use #random for non-work conversations
+- Use direct messages for private conversations
+- Set your status when in meetings or unavailable
+- Avoid sending messages after 8 PM unless urgent
+
+Meeting Culture:
+- All meetings must have an agenda shared 24 hours before
+- Start and end meetings on time
+- Document action items and share within 24 hours after meeting
+- Consider if a meeting is necessary (could it be a Slack message?)
+
+=======================================================
+5. CAREER DEVELOPMENT
+=======================================================
+
+Learning & Development Budget:
+Each employee receives $1,500 per year for professional development:
+- Online courses (Coursera, Udemy, Pluralsight, etc.)
+- Books and learning materials
+- Conference attendance
+- Professional certifications
+
+Submit learning requests through Workday under "Learning & Development."
+Manager approval required for amounts over $500.
+
+Internal Mobility:
+Employees can apply for internal job openings after completing 1 year in
+their current role. Internal candidates are given priority in the hiring process.
+Speak to your HR Business Partner to explore opportunities.
+
+Mentorship Program:
+TechCorp offers a formal mentorship program. Apply via the company intranet.
+Mentors are senior employees across different departments. The program runs
+for 6 months with monthly 1:1 sessions.
+
+=======================================================
+6. HEALTH AND WELLNESS
+=======================================================
+
+Gym Subsidy:
+The company reimburses up to $50/month for gym membership. Submit receipts
+through Workday under "Wellness Reimbursement."
+
+Mental Health Support:
+TechCorp provides free access to the BetterHelp platform (online therapy).
+All employees get 12 free sessions per year. This is completely confidential.
+Access via the company intranet under "Employee Wellness."
+
+Annual Health Checkup:
+All employees receive a free comprehensive health checkup once per year.
+Schedule through the company's healthcare portal or call HR at ext. 4500.
+
+=======================================================
+7. PAYROLL INFORMATION
+=======================================================
+
+Pay Schedule:
+Salaries are paid on the last working day of each month directly to your
+registered bank account.
+
+Payslips:
+Digital payslips are available in Workday by the 25th of each month.
+For payroll queries, contact payroll@techcorp.com or ext. 4501.
+
+Taxes:
+TechCorp handles all statutory deductions. Your offer letter specifies
+whether your salary is CTC (Cost to Company) or take-home.
+
+=======================================================
+8. EMERGENCY PROCEDURES
+=======================================================
+
+Fire Emergency:
+- Fire exits are marked with green signs
+- Assembly point: Main parking lot, Section A
+- Fire wardens wear orange vests and will guide evacuation
+
+Medical Emergency:
+- First aid kits are on every floor near the elevator
+- Call 911 for life-threatening emergencies
+- Internal emergency number: ext. 9999
+- First aid trained employees are identified with a green cross on their badge

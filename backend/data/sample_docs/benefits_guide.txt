@@ -1,0 +1,213 @@
+EMPLOYEE BENEFITS GUIDE
+TechCorp Inc. - Complete Benefits Overview
+Effective: January 2025
+
+=======================================================
+OVERVIEW
+=======================================================
+
+TechCorp offers a comprehensive benefits package to support your health,
+finances, and work-life balance. This guide explains all available benefits
+and how to access them.
+
+For benefits-related questions: benefits@techcorp.com | HR: ext. 4500
+
+=======================================================
+1. HEALTH INSURANCE
+=======================================================
+
+Coverage Options:
+All full-time employees and their dependents are covered under our group
+health insurance plan starting from Day 1 of employment.
+
+Plan Details:
+- Provider: BlueCross BlueShield
+- Type: Comprehensive PPO Plan
+- Employee Premium: $0 (fully company-paid)
+- Dependent Coverage: $150/month per dependent (deducted from salary)
+
+Coverage Includes:
+- Hospitalization (up to $500,000 per year)
+- Outpatient consultations (100% covered at network hospitals)
+- Prescription medications (80% covered)
+- Dental: Up to $1,500 per year
+- Vision: Up to $300 per year (glasses/contacts)
+- Mental health: 20 sessions per year at $20 copay
+- Maternity: Fully covered including prenatal and postnatal care
+
+How to Use:
+1. Download the BlueCross app and use your employee ID
+2. Show your digital insurance card at network hospitals
+3. For reimbursements, upload bills to Workday > Benefits > Submit Claim
+
+=======================================================
+2. RETIREMENT BENEFITS
+=======================================================
+
+401(k) Plan:
+TechCorp offers a 401(k) retirement savings plan with company matching.
+
+Matching Policy:
+- Company matches 100% of your contributions up to 4% of your salary
+- Matching starts from Day 1
+- Example: If you earn $80,000 and contribute 4% ($3,200), TechCorp adds $3,200
+
+Vesting Schedule:
+- Year 1: 25% vested
+- Year 2: 50% vested
+- Year 3: 75% vested
+- Year 4+: 100% vested (your matched funds are fully yours)
+
+How to Enroll:
+1. Log into Fidelity NetBenefits (link in company intranet)
+2. Set your contribution percentage and investment preferences
+3. Enrollment must be done within 30 days of joining
+
+=======================================================
+3. EQUITY & STOCK OPTIONS
+=======================================================
+
+Stock Option Plan (for eligible employees):
+Senior employees (Level 4 and above) receive Employee Stock Options (ESOs).
+
+Grant Details:
+- Options are granted at the time of joining or promotion
+- Exercise price is the Fair Market Value on the grant date
+- Cliff: 1 year (no vesting in first year)
+- Total vesting: 4 years (25% per year after cliff)
+
+RSU (Restricted Stock Units):
+- Available for all employees Level 3 and above
+- Granted annually based on performance rating
+- Vest over 4 years on a quarterly basis
+
+=======================================================
+4. LIFE AND DISABILITY INSURANCE
+=======================================================
+
+Life Insurance:
+- Coverage: 3x your annual base salary
+- Fully paid by company
+- Additional optional coverage: You can buy up to 5x salary at group rates
+
+Short-Term Disability:
+- Covers up to 60% of your salary
+- Kicks in after 7 days of disability
+- Maximum duration: 12 weeks
+- Waiting period: none (coverage from Day 1)
+
+Long-Term Disability:
+- Covers up to 60% of your salary
+- Kicks in after Short-Term Disability period ends
+- Maximum duration: Until age 65 or recovery
+- Fully paid by company
+
+=======================================================
+5. PAID TIME OFF SUMMARY
+=======================================================
+
+Annual Leave: 15-25 days (based on tenure - see Policy Guide)
+Sick Leave: 10 days per year
+Holidays: 11 federal holidays + 2 floating holidays
+Parental Leave: 26 weeks primary / 4 weeks secondary caregiver
+Bereavement Leave: 5 days for immediate family, 3 days for extended family
+Volunteer Time Off: 3 days per year to volunteer for charitable causes
+Sabbatical: After 5 years of service, eligible for 4-week paid sabbatical
+
+=======================================================
+6. COMMUTER BENEFITS
+=======================================================
+
+Pre-Tax Commuter Benefits:
+Save on taxes by paying for commuting expenses pre-tax.
+- Transit passes: Up to $315/month pre-tax
+- Parking: Up to $315/month pre-tax
+
+Company Shuttle:
+Free shuttle service is available from major transit hubs:
+- Downtown Station to Office: Every 30 minutes, 7-10 AM and 4-8 PM
+- Schedule available on the company intranet
+
+Cycling Benefits:
+- Secure bicycle storage available
+- Shower facilities for cyclists
+- Cycle to Work program: Bike purchase up to $1,000 (interest-free company loan)
+
+=======================================================
+7. EDUCATION ASSISTANCE
+=======================================================
+
+Tuition Reimbursement:
+Full-time employees pursuing relevant degrees receive:
+- Undergraduate: Up to $3,000 per year
+- Graduate/MBA: Up to $5,000 per year
+- Certifications: Up to $1,500 per year (from the L&D budget)
+
+Requirements:
+- Must be employed full-time for at least 1 year
+- Degree must be relevant to your current role or career path
+- Minimum grade of B required for reimbursement
+- Tax implications apply (amounts over $5,250/year are taxable)
+
+How to Apply:
+Submit tuition reimbursement request in Workday at least 30 days before
+the course starts. Manager and HR approval required.
+
+=======================================================
+8. EMPLOYEE ASSISTANCE PROGRAM (EAP)
+=======================================================
+
+What is EAP:
+A free, confidential resource for employees and their families facing
+personal or work-related challenges.
+
+Services Include:
+- 24/7 confidential helpline: 1-800-555-HELP
+- Free counseling (up to 8 sessions per issue)
+- Legal consultation (30-minute sessions, up to 3 per year)
+- Financial counseling (budgeting, debt management)
+- Child care and elder care referrals
+- Crisis support services
+
+Important: All EAP services are completely confidential. Neither your
+manager nor HR will be informed of your use of EAP services.
+
+=======================================================
+9. CORPORATE DISCOUNTS
+=======================================================
+
+As a TechCorp employee, you have access to negotiated discounts:
+
+Technology:
+- Apple: 8-15% discount on personal purchases
+- Dell: 10% discount
+- Microsoft: Up to 30% on personal Office subscriptions
+
+Entertainment & Lifestyle:
+- AMC Theaters: $8 tickets (vs regular $15+)
+- Spotify/Apple Music: Family plan at employee rate ($5/month)
+- Hotel chains (Marriott, Hilton): 20-30% corporate rates
+- Major airlines: 5-10% discount on personal travel
+
+Access all discounts through the "Perks" section in the company intranet.
+
+=======================================================
+10. HOW TO ENROLL
+=======================================================
+
+Benefits Enrollment Windows:
+1. New Hire Enrollment: Within 30 days of your start date
+2. Open Enrollment: Every year in November (changes effective Jan 1)
+3. Life Event Changes: Within 30 days of a qualifying event
+   (marriage, birth, adoption, loss of other coverage)
+
+Steps to Enroll:
+1. Log into Workday
+2. Go to Benefits > Open Enrollment
+3. Review and select your options
+4. Add dependents if applicable
+5. Review summary and confirm
+
+Need Help?
+Benefits Team: benefits@techcorp.com
+Phone: ext. 4500 (Mon-Fri, 9 AM - 5 PM)

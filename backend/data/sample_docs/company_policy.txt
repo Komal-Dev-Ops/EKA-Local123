@@ -1,0 +1,109 @@
+COMPANY POLICY DOCUMENT
+TechCorp Inc. - Official Policy Guide
+Last Updated: January 2025
+
+=======================================================
+1. WORK FROM HOME POLICY
+=======================================================
+
+Eligibility:
+All full-time employees who have completed their 3-month probation period are eligible
+to work from home up to 3 days per week. Part-time employees may work from home
+up to 2 days per week, subject to manager approval.
+
+Equipment:
+The company will provide a laptop and necessary software licenses. Employees are
+responsible for ensuring a stable internet connection (minimum 25 Mbps). The company
+provides a one-time $300 home office setup allowance.
+
+Working Hours:
+Remote employees must be available during core hours: 10 AM to 3 PM in their local
+time zone. All remote employees must attend the daily standup meeting at 9:30 AM.
+
+Security Requirements:
+- Use only company-approved VPN when accessing internal systems
+- Do not work from public WiFi without VPN
+- Lock your screen when stepping away from your computer
+- Do not share your work laptop with family members
+
+=======================================================
+2. LEAVE POLICY
+=======================================================
+
+Annual Leave:
+- 0-2 years of service: 15 days paid leave per year
+- 2-5 years of service: 20 days paid leave per year
+- 5+ years of service: 25 days paid leave per year
+
+Sick Leave:
+All employees receive 10 days of paid sick leave per year. A medical certificate is
+required for absences longer than 3 consecutive days. Unused sick leave cannot be
+carried forward to the next year.
+
+Maternity/Paternity Leave:
+- Maternity Leave: 26 weeks fully paid for primary caregivers
+- Paternity Leave: 4 weeks fully paid for secondary caregivers
+- Adoption Leave: Same as maternity/paternity leave policies
+
+Emergency Leave:
+Employees may take up to 5 days of emergency leave per year for family emergencies
+(death of immediate family member, serious illness of dependent, etc.). This is
+separate from annual leave.
+
+=======================================================
+3. CODE OF CONDUCT
+=======================================================
+
+Professional Behavior:
+All employees must maintain professional behavior in the workplace and in all
+company-related communications. This includes:
+- Treating all colleagues with respect regardless of their position
+- Maintaining confidentiality of company and client information
+- Avoiding conflicts of interest
+- Not engaging in discrimination or harassment of any kind
+
+Social Media Policy:
+Employees must not share confidential company information on social media. When
+discussing work on personal social media, employees must clarify they speak only
+for themselves. Sharing client information on social media is strictly prohibited
+and may result in immediate termination.
+
+=======================================================
+4. EXPENSE REIMBURSEMENT POLICY
+=======================================================
+
+Pre-Approval:
+Any expense over $500 requires pre-approval from your direct manager. Expenses
+over $2000 require approval from the department head.
+
+Submission:
+All expense claims must be submitted within 30 days of incurring the expense.
+Claims submitted after 30 days may not be reimbursed. All claims require original
+receipts.
+
+Travel Expenses:
+- Domestic flights: Economy class only (unless flight is over 6 hours)
+- International flights: Business class allowed for flights over 8 hours
+- Hotel: Up to $200 per night in major cities, $150 in other locations
+- Meals: Up to $50 per day (breakfast $10, lunch $15, dinner $25)
+
+=======================================================
+5. PERFORMANCE REVIEW POLICY
+=======================================================
+
+Review Cycle:
+Performance reviews are conducted twice a year: in June and December. New employees
+receive their first review at the 6-month mark after joining.
+
+Rating Scale:
+1 - Needs Improvement
+2 - Meets Some Expectations
+3 - Meets Expectations
+4 - Exceeds Expectations
+5 - Outstanding
+
+Salary Increments:
+- Rating 3: 5-7% increment
+- Rating 4: 8-10% increment
+- Rating 5: 11-15% increment
+- Rating 1-2: No increment, Performance Improvement Plan initiated

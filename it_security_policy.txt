@@ -1,0 +1,265 @@
+IT SECURITY & TECHNOLOGY POLICY
+TechCorp Inc. - IT Department Official Guidelines
+Version 2.1 | January 2025
+
+=======================================================
+OVERVIEW
+=======================================================
+
+This document outlines TechCorp's IT security policies, acceptable use of
+technology, software guidelines, and data protection rules. All employees
+are required to follow these policies from Day 1.
+
+For IT support: it-support@techcorp.com | Helpdesk: ext. 1234
+IT Emergency (after hours): ext. 9911
+
+=======================================================
+1. PASSWORD POLICY
+=======================================================
+
+Password Requirements:
+All employee passwords must meet the following criteria:
+- Minimum 12 characters in length
+- Must include at least one uppercase letter (A-Z)
+- Must include at least one lowercase letter (a-z)
+- Must include at least one number (0-9)
+- Must include at least one special character (!@#$%^&*)
+- Cannot contain your name, username, or company name
+
+Password Rules:
+- Passwords must be changed every 90 days
+- You cannot reuse your last 10 passwords
+- Never share your password with anyone — including IT staff
+- IT will NEVER ask for your password via email or phone
+- Use the company-approved password manager: LastPass Enterprise
+
+Multi-Factor Authentication (MFA):
+MFA is mandatory for ALL employees on ALL company systems.
+Supported MFA methods:
+1. Microsoft Authenticator app (recommended)
+2. Google Authenticator app
+3. SMS to registered phone number (less secure, use only as backup)
+
+If you lose access to your MFA device, contact IT Help Desk immediately
+at ext. 1234. Identity verification will be required before reset.
+
+=======================================================
+2. DEVICE POLICY
+=======================================================
+
+Company-Issued Devices:
+- All employees receive a company laptop on their first day
+- Standard configuration: Windows 11 Pro or MacOS (based on role)
+- Developers receive additional RAM (32GB) and developer tools pre-installed
+- Mobile phones are provided to employees at Level 4 and above
+
+Personal Devices (BYOD - Bring Your Own Device):
+Personal devices may be used for work ONLY if:
+1. The device is registered with IT (via the BYOD portal)
+2. Company MDM (Mobile Device Management) software is installed
+3. The device runs a supported OS (Windows 10+, MacOS 12+, iOS 16+, Android 12+)
+
+Lost or Stolen Devices:
+Report immediately to IT Help Desk (ext. 1234) AND your manager.
+IT will remotely wipe the device within 1 hour of report.
+Response time SLA: 30 minutes during business hours, 2 hours after hours.
+
+Device Care:
+- Do not install unauthorized software on company devices
+- Keep your operating system updated (auto-updates are mandatory)
+- Do not remove the IT asset tag from your device
+- Return all company devices within 2 business days of leaving the company
+
+=======================================================
+3. SOFTWARE AND APPLICATION POLICY
+=======================================================
+
+Approved Software:
+Only IT-approved software may be installed on company devices.
+The full approved software catalog is on the intranet under IT > Software Catalog.
+
+Common approved software includes:
+- Microsoft Office 365 (Word, Excel, PowerPoint, Teams, Outlook)
+- Slack (communication)
+- Zoom (video conferencing)
+- Chrome, Firefox, Edge (browsers)
+- VS Code, IntelliJ, PyCharm (for developers)
+- Figma, Adobe Creative Cloud (for designers)
+- Tableau, Power BI (for data teams)
+
+How to Request New Software:
+1. Submit a Software Request via the IT Help Desk portal
+2. IT and Security team reviews within 3 business days
+3. Legal reviews licensing requirements if needed
+4. Approved software is pushed to your device automatically
+
+Prohibited Software:
+The following are strictly prohibited on company devices:
+- Torrent clients or P2P file sharing software
+- Cryptocurrency mining software
+- Personal VPN software (use company VPN only)
+- Unauthorized remote access tools
+- Games or personal entertainment software
+
+Violation of this policy may result in disciplinary action up to termination.
+
+=======================================================
+4. INTERNET AND EMAIL ACCEPTABLE USE
+=======================================================
+
+Internet Use:
+Company internet is for business use. Limited personal use is acceptable
+as long as it does not interfere with work or consume excessive bandwidth.
+
+Prohibited Internet Activities:
+- Accessing illegal, pornographic, or offensive websites
+- Streaming personal video/music during business hours (high bandwidth)
+- Online gambling
+- Downloading pirated software, music, or movies
+- Accessing competitor job boards or recruitment sites on company time
+
+All internet activity on company networks is logged and may be monitored.
+
+Email Policy:
+- Use company email (yourname@techcorp.com) for all business communications
+- Do not use personal email (Gmail, Yahoo, etc.) for company business
+- Do not forward company emails to personal email accounts
+- Emails are retained for 7 years for compliance purposes
+- Email size limit: 25MB per message, 100GB total mailbox
+
+Phishing and Suspicious Emails:
+- Never click links in suspicious emails
+- Never open unexpected attachments even from known senders
+- Report phishing emails via the "Report Phishing" button in Outlook
+- IT runs monthly phishing simulation tests — failing 3 tests results in
+  mandatory security training
+
+=======================================================
+5. DATA CLASSIFICATION AND HANDLING
+=======================================================
+
+Data Classification Levels:
+
+LEVEL 1 - PUBLIC:
+Information that can be freely shared outside the company.
+Examples: Marketing materials, press releases, job postings.
+
+LEVEL 2 - INTERNAL:
+Information for employees only. Not for external sharing.
+Examples: Company policies, org charts, internal announcements.
+Handling: Can be shared via email/Slack within the company.
+
+LEVEL 3 - CONFIDENTIAL:
+Sensitive business information. Share only on need-to-know basis.
+Examples: Financial reports, product roadmaps, client contracts.
+Handling: Encrypt before emailing. Use secure file sharing only.
+
+LEVEL 4 - RESTRICTED:
+Highly sensitive. Severe consequences if leaked.
+Examples: Employee PII, passwords, legal documents, M&A information.
+Handling: Never email. Use secure vault only. Access logged.
+
+Data Storage Rules:
+- Store all work files on OneDrive or SharePoint (NOT local desktop)
+- Local storage is NOT backed up — files on desktop can be lost permanently
+- Do not store company data on personal cloud storage (Google Drive, Dropbox)
+- USB drives are prohibited unless encrypted and IT-issued
+
+=======================================================
+6. REMOTE ACCESS AND VPN POLICY
+=======================================================
+
+VPN Requirements:
+When working outside the office, you MUST use the company VPN to access:
+- Internal applications (HR system, finance tools, internal wikis)
+- Development servers and databases
+- Network drives and shared folders
+- Any system with confidential or restricted data
+
+VPN Client: Cisco AnyConnect (installed on all company devices)
+VPN Server: vpn.techcorp.com
+Login: Use your company credentials + MFA
+
+VPN is NOT required for:
+- Microsoft 365 apps (Outlook, Teams, SharePoint)
+- Slack
+- Zoom
+- Public-facing company websites
+
+If you experience VPN issues: it-support@techcorp.com or ext. 1234
+Average resolution time: 30 minutes.
+
+=======================================================
+7. INCIDENT REPORTING
+=======================================================
+
+What to Report Immediately:
+- Lost or stolen company devices
+- Suspected malware or ransomware infection
+- Unauthorized access to your accounts
+- Accidental data exposure (sent email to wrong person, etc.)
+- Phishing emails that you clicked on
+
+How to Report:
+- Email: security@techcorp.com
+- Phone: IT Security Hotline ext. 1911 (24/7)
+- Slack: #security-incidents channel
+
+Response Times:
+- P1 Critical (active breach/ransomware): 15 minutes
+- P2 High (lost device/account compromise): 1 hour
+- P3 Medium (phishing click, policy violation): 4 hours
+
+Non-Reporting Consequences:
+Failure to report a security incident promptly is itself a policy violation
+and can result in disciplinary action. Early reporting significantly reduces
+damage — employees who self-report are treated more leniently.
+
+=======================================================
+8. SOCIAL ENGINEERING AWARENESS
+=======================================================
+
+Common Attack Types to Watch For:
+
+Phishing: Fake emails pretending to be from IT, HR, or executives
+asking you to click a link, reset your password, or share information.
+RULE: IT will never ask for your password. HR will never ask you to buy
+gift cards. Verify unusual requests by calling the person directly.
+
+Vishing (Voice Phishing): Phone calls claiming to be from IT support
+asking for remote access to your computer or your credentials.
+RULE: Hang up and call IT directly at ext. 1234 to verify.
+
+Tailgating: Someone follows you through a secure door without badge access.
+RULE: Never let anyone tailgate you. Politely ask them to badge in themselves.
+
+USB Drops: Finding a USB drive and plugging it in out of curiosity.
+RULE: Never plug in a USB you found. Hand it to IT security immediately.
+
+=======================================================
+9. IT SUPPORT AND HELPDESK
+=======================================================
+
+How to Get Help:
+1. Self-Service Portal: helpdesk.techcorp.internal (fastest)
+2. Email: it-support@techcorp.com
+3. Phone: ext. 1234 (Mon-Fri, 8 AM - 8 PM)
+4. Walk-in: IT Help Desk, Floor 1, Room 110 (Mon-Fri, 9 AM - 5 PM)
+
+Ticket Priority Levels:
+P1 - Critical: System completely down, cannot work at all → 1 hour response
+P2 - High: Major issue significantly impacting work → 4 hour response
+P3 - Medium: Issue with workaround available → 1 business day response
+P4 - Low: Minor issue or question → 3 business days response
+
+Common Issues and Self-Service Solutions:
+- Password reset: go.techcorp.com/reset-password
+- Software installation: helpdesk.techcorp.internal > Software Request
+- New hardware request: helpdesk.techcorp.internal > Hardware Request
+- VPN not connecting: Restart Cisco AnyConnect, then call ext. 1234
+- Outlook not loading: Check status.office.com for outages first
+
+IT Assets Inventory:
+Each employee is responsible for all IT assets assigned to them.
+Asset list available in Workday > My Equipment.
+Report lost/stolen assets within 2 hours of discovering the loss.

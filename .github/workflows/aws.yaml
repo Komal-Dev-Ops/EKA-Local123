@@ -1,0 +1,62 @@
+name: Deploy Application Docker Images to EC2 instance
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:   # adds a "Run workflow" button in the GitHub Actions tab
+
+jobs:
+  Continuous-Integration:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Build and push backend + frontend images to Amazon ECR
+        env:
+          BACKEND_IMAGE: ${{ steps.login-ecr.outputs.registry }}/${{ secrets.ECR_REPO_BACKEND }}:latest
+          FRONTEND_IMAGE: ${{ steps.login-ecr.outputs.registry }}/${{ secrets.ECR_REPO_FRONTEND }}:latest
+        run: |
+          docker compose build
+          docker compose push
+
+  Continuous-Deployment:
+    needs: Continuous-Integration
+    runs-on: self-hosted
+    steps:
+      # Needed so docker-compose.yml is present on the EC2 instance
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Pull latest images and restart containers
+        env:
+          BACKEND_IMAGE: ${{ steps.login-ecr.outputs.registry }}/${{ secrets.ECR_REPO_BACKEND }}:latest
+          FRONTEND_IMAGE: ${{ steps.login-ecr.outputs.registry }}/${{ secrets.ECR_REPO_FRONTEND }}:latest
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          docker compose -p eka pull
+          docker compose -p eka up -d --no-build --remove-orphans
+          docker image prune -f

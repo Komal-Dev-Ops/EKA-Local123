@@ -1,0 +1,41 @@
+# Runs the Enterprise Knowledge Assistant as two containers:
+#   backend  -> FastAPI API       (port 8000)
+#   frontend -> Streamlit chat UI (port 8501)
+#
+# Locally:  docker compose up --build
+# On EC2:   the pipeline sets BACKEND_IMAGE / FRONTEND_IMAGE to the ECR image names,
+#           then runs `docker compose pull` and `docker compose up -d --no-build`.
+
+services:
+  backend:
+    build:
+      context: .                      # project root, so backend/ and requirements.txt are available
+      dockerfile: backend/Dockerfile
+    image: ${BACKEND_IMAGE:-eka-backend:latest}
+    environment:
+      # Taken from your shell or from a .env file next to this compose file
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    ports:
+      - "8000:8000"                   # optional: only needed to reach the API/docs from outside
+    healthcheck:
+      # python:slim has no curl, so use Python itself to call the health endpoint
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s               # startup loads documents and the FAISS index
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+    image: ${FRONTEND_IMAGE:-eka-frontend:latest}
+    environment:
+      # "backend" is the service name above; Compose's network turns it into the container's address
+      BACKEND_URL: http://backend:8000
+    ports:
+      - "8501:8501"
+    depends_on:
+      backend:
+        condition: service_healthy    # start the UI only after the API answers /api/health
+    restart: unless-stopped

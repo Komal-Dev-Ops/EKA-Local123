@@ -1,0 +1,7 @@
+# TechCorp Inc. Certification Reimbursement Policy
+
+TechCorp Inc. encourages employees to enhance their technical skills by completing industry-recognized certifications. The company reimburses **100% of the certification exam fee** for approved certifications after the employee successfully passes the exam and submits the reimbursement request within **30 days** of receiving the result.
+
+Employees must obtain **manager approval** before registering for any certification exam. This reimbursement policy is applicable only to **full-time employees** who have successfully completed their probation period.
+
+Each employee can claim reimbursement for a maximum of **two certifications in a financial year**. TechCorp Inc. currently supports certifications from **AWS, Microsoft Azure, Google Cloud, Dataiku, and Snowflake** under this policy.

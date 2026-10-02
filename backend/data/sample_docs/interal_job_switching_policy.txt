@@ -1,0 +1,236 @@
+Internal Job Switching Policy
+Document ID: HR-POL-INT-001 Company: Acme Technologies Pvt. Ltd. Version: 2.1 Effective Date: January 1, 2026 Policy Owner: Human Resources Review Frequency: Annual Status: Active
+
+1. Purpose
+The Internal Job Switching Policy establishes a transparent process through which eligible employees can apply for open positions within Acme Technologies.
+The purpose of this policy is to:
+	•	Encourage internal career growth and mobility.
+	•	Help employees explore opportunities aligned with their skills and career goals.
+	•	Retain organizational knowledge and experienced employees.
+	•	Provide business teams with access to internal talent.
+	•	Establish consistent eligibility, approval, and transfer procedures.
+This policy applies to all permanent employees of Acme Technologies Pvt. Ltd., unless otherwise stated.
+
+2. Scope
+This policy applies to internal applications for:
+	•	Promotions into open positions.
+	•	Lateral transfers between departments.
+	•	Transfers between teams within the same department.
+	•	Transfers to positions in another business unit.
+	•	Internal applications for positions in another geographic location, subject to applicable company and immigration requirements.
+This policy does not apply to temporary project assignments, short-term rotations, internships, or contractor engagements.
+
+3. Definitions
+Internal Job Switch
+An internal job switch is a permanent transfer of an employee from their current position to another approved position within Acme Technologies.
+Current Manager
+The manager responsible for the employee's current position.
+Hiring Manager
+The manager responsible for the open position to which the employee is applying.
+Internal Candidate
+An existing eligible employee who applies for an internally posted position.
+Notice / Transition Period
+The period required for an employee to transition responsibilities from their current role to their new role.
+Critical Business Period
+A period during which an employee's immediate transfer may create significant operational risk. Examples may include a major product launch, regulatory deadline, or critical customer implementation.
+
+4. Policy Statement
+Acme Technologies supports internal career mobility.
+Eligible employees may apply for internally posted positions through the company's internal career portal. Employees are not required to resign from their current position before applying for another internal position.
+Selection decisions are based on job-related factors such as:
+	•	Skills and qualifications.
+	•	Relevant experience.
+	•	Job requirements.
+	•	Interview performance.
+	•	Demonstrated performance and behaviors.
+	•	Business requirements.
+Applying for an internal position does not guarantee selection or transfer.
+
+5. Eligibility Requirements
+An employee may apply for an internal position when all applicable eligibility requirements are satisfied.
+Standard eligibility
+Employees must generally:
+	1	Be a permanent employee of the company.
+	2	Have completed at least 12 months in their current role.
+	3	Have a satisfactory performance record.
+	4	Not be serving a formal notice period.
+	5	Not be subject to an active disciplinary suspension.
+	6	Meet the qualifications specified in the job description.
+Exceptions
+Exceptions to the 12-month requirement may be considered when:
+	•	The employee is applying for a company-designated critical skill position.
+	•	The employee's current position is being eliminated or substantially changed.
+	•	The employee is participating in an approved organizational restructuring.
+	•	HR and the relevant business leaders approve an exception.
+Employees should contact HR if they believe an exception applies.
+
+6. Internal Job Posting
+All positions eligible for internal applications should be posted on the company's internal career portal.
+A typical internal job posting includes:
+	•	Job title.
+	•	Department.
+	•	Location.
+	•	Job level.
+	•	Hiring manager.
+	•	Required qualifications.
+	•	Preferred qualifications.
+	•	Application deadline.
+	•	Expected work arrangement.
+	•	Salary grade or compensation information, where applicable.
+Internal employees should use the company's internal career portal to submit applications.
+
+7. Application Process
+Employees wishing to change jobs internally should follow these steps.
+Step 1: Review the Position
+The employee reviews the internal job posting and confirms that they meet the stated requirements.
+Step 2: Submit an Application
+The employee submits their application through the internal career portal.
+The application may include:
+	•	Current resume.
+	•	Relevant skills.
+	•	Certifications.
+	•	Previous experience.
+	•	Career profile.
+	•	Responses to screening questions.
+Step 3: Initial Screening
+The hiring team reviews eligible internal applications against the requirements of the position.
+Step 4: Interview
+Shortlisted candidates may participate in one or more interviews.
+Depending on the position, the process may include:
+	•	Hiring manager interview.
+	•	Technical interview.
+	•	Panel interview.
+	•	Leadership interview.
+	•	Skills assessment.
+Step 5: Selection
+The hiring manager selects the candidate based on the requirements of the position and the company's hiring process.
+Step 6: Transfer Discussion
+If an employee is selected, HR coordinates with the current manager and hiring manager to establish a mutually agreed transition date.
+Step 7: Role Transition
+The employee completes required knowledge transfer and other transition activities before joining the new position.
+
+8. Manager Notification
+Employees may apply for an internal position without obtaining advance approval from their current manager.
+If an employee becomes a finalist or is selected, HR will coordinate the appropriate manager notification process.
+Managers should not discourage employees from exploring legitimate internal career opportunities.
+Managers must not retaliate against an employee for applying for an internal position.
+Examples of prohibited retaliation include:
+	•	Threatening an employee because they applied.
+	•	Reducing opportunities solely because they applied.
+	•	Giving an unjustified negative performance assessment because they applied.
+	•	Blocking an approved transfer without a legitimate business reason.
+
+9. Confidentiality
+Internal applications should be handled confidentially.
+Information about an employee's application should be shared only with individuals who have a legitimate business need to know.
+Interviewers and hiring managers should not unnecessarily disclose an employee's application status.
+Employees should also exercise discretion when discussing internal applications.
+
+10. Performance Considerations
+An employee's performance may be considered during the internal hiring process.
+Performance considerations may include:
+	•	Most recent performance review.
+	•	Achievement of role expectations.
+	•	Demonstrated competencies.
+	•	Relevant project contributions.
+	•	Compliance with company policies.
+A manager should not provide misleading or intentionally inaccurate information about an employee.
+Performance information must be factual, relevant, and consistent with company performance-management processes.
+
+11. Compensation Changes
+An internal job switch may or may not result in a compensation adjustment.
+Compensation is determined according to:
+	•	New role level.
+	•	Salary range.
+	•	Internal equity.
+	•	Employee's current compensation.
+	•	Location.
+	•	Applicable compensation guidelines.
+	•	Promotion or transfer rules.
+Any compensation change will be communicated to the employee before the transfer is finalized.
+
+12. Transition Period
+The standard internal transfer transition period is 30 calendar days after the transfer has been formally approved.
+The transition period may be adjusted based on business requirements.
+Possible transition activities include:
+	•	Knowledge transfer.
+	•	Documentation.
+	•	Customer handover.
+	•	Project handover.
+	•	Access transition.
+	•	Introduction to the new team.
+	•	Completion of critical deliverables.
+The current manager and hiring manager should work together to avoid unnecessary delays.
+In exceptional circumstances, HR may approve a transition period longer or shorter than 30 days.
+
+13. Relocation and Location Changes
+If the new position is based in another city or country, additional requirements may apply.
+These may include:
+	•	Relocation approval.
+	•	Immigration or work authorization.
+	•	Tax requirements.
+	•	Employment-law requirements.
+	•	Relocation benefits.
+	•	Changes to employment terms.
+An internal job offer does not automatically guarantee relocation assistance.
+
+14. Reapplication
+An employee who is not selected for an internal position may apply for other internal positions, subject to the eligibility requirements of those positions.
+There is no mandatory waiting period after an unsuccessful internal application unless otherwise specified for a particular program.
+Employees are encouraged to request feedback from the hiring team where available.
+
+15. Withdrawal of Application
+Employees may withdraw an internal application at any point before accepting a formal internal offer.
+If an employee accepts an internal offer and subsequently wishes to withdraw, they should contact HR immediately.
+The company may review the circumstances and determine whether the original position remains available.
+
+16. Conflicts of Interest
+Employees must disclose any actual or potential conflict of interest related to an internal recruitment process.
+For example, an employee should disclose if:
+	•	A close relative is the hiring manager.
+	•	The employee has a personal relationship with an interviewer that could affect the process.
+	•	The employee has access to confidential selection information.
+HR may modify the interview or selection process when appropriate.
+
+17. Equal Opportunity
+Acme Technologies provides equal employment opportunities.
+Internal selection decisions must not be based on protected characteristics or other prohibited grounds under applicable law.
+The company expects hiring teams to apply consistent and job-related selection criteria.
+
+18. Policy Violations
+Violations of this policy may be reviewed by HR.
+Examples include:
+	•	Retaliating against an employee for applying internally.
+	•	Providing intentionally false information during an internal hiring process.
+	•	Manipulating an internal selection process.
+	•	Sharing confidential candidate information without authorization.
+	•	Attempting to block an employee's transfer without legitimate business justification.
+Depending on the circumstances, violations may result in corrective or disciplinary action.
+
+19. Roles and Responsibilities
+Employee
+The employee is responsible for:
+	•	Reviewing eligibility requirements.
+	•	Providing accurate application information.
+	•	Participating professionally in interviews.
+	•	Completing required transition activities.
+	•	Protecting confidential information.
+Current Manager
+The current manager is responsible for:
+	•	Supporting a professional transition.
+	•	Providing accurate performance information when requested.
+	•	Coordinating knowledge transfer.
+	•	Avoiding retaliation or unreasonable obstruction.
+Hiring Manager
+The hiring manager is responsible for:
+	•	Following the internal recruitment process.
+	•	Evaluating candidates using job-related criteria.
+	•	Maintaining candidate confidentiality.
+	•	Coordinating with HR and the current manager.
+Human Resources
+HR is responsible for:
+	•	Maintaining this policy.
+	•	Advising employees and managers.
+	•	Supporting internal recruitment.
+	•	Handling exceptions.
+	•	Resolving policy-related concerns.

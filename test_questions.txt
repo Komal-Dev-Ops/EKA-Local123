@@ -1,0 +1,25 @@
+  Test questions you can ask after uploading:
+
+  ┌──────────────────────────────────────────────────────┬───────────────────────────┐
+  │                       Question                       │       What it tests       │
+  ├──────────────────────────────────────────────────────┼───────────────────────────┤
+  │ What are the password requirements?                  │ Password policy section   │
+  ├──────────────────────────────────────────────────────┼───────────────────────────┤
+  │ What is the minimum password length?                 │ Specific detail retrieval │
+  ├──────────────────────────────────────────────────────┼───────────────────────────┤
+  │ Do I need MFA for all systems?                       │ MFA policy                │
+  ├──────────────────────────────────────────────────────┼───────────────────────────┤
+  │ What should I do if I lose my laptop?                │ Lost device procedure     │
+  ├──────────────────────────────────────────────────────┼───────────────────────────┤
+  │ Can I install software on my own?                    │ Software policy           │
+  ├──────────────────────────────────────────────────────┼───────────────────────────┤
+  │ What is the VPN called and how do I connect?         │ VPN section               │
+  ├──────────────────────────────────────────────────────┼───────────────────────────┤
+  │ What are the 4 data classification levels?           │ Data handling section     │
+  ├──────────────────────────────────────────────────────┼───────────────────────────┤
+  │ How do I report a phishing email?                    │ Incident reporting        │
+  ├──────────────────────────────────────────────────────┼───────────────────────────┤
+  │ What is the IT help desk number?                     │ Support info              │
+  ├──────────────────────────────────────────────────────┼───────────────────────────┤
+  │ How long does IT take to respond to critical issues? │ SLA details               │
+  ├──────────────────────────────────────────────────────┼───────────────────────────

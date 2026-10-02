@@ -1,0 +1,3 @@
+# Frontend-only dependencies (used by frontend/Dockerfile)
+streamlit>=1.31.0
+requests>=2.31.0
